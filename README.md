@@ -8,7 +8,7 @@
 - [Créditos](#créditos)
 - [Licença](#licença)
 
-![gameplay](./assets/readme/level_1.gif)
+![gameplay](./assets/readme/level_9_gameplay.gif)
 
 ## Descrição
 
