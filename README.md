@@ -4,7 +4,6 @@
 - [Ferramentas](#ferramentas)
 - [Detalhes Técnicos](#detalhes-técnicos)
   - [Exemplo da criação de uma fase](#exemplo-da-criação-de-uma-fase)
-- [Screenshots](#screenshots)
 - [Créditos](#créditos)
 - [Licença](#licença)
 
@@ -46,14 +45,6 @@ Visual Studio 2026, Git, [Tiled](https://www.mapeditor.org/), Bfxr, Beepbox
 ### Exemplo da criação de uma fase
 
 ![level 9 creation](./assets/readme/level_9_creation.png)
-
-## Screenshots
-
-![App Screenshot](./images/readme/screenshot_1.png)
-
-![App Screenshot](./images/readme/screenshot_2.png)
-
-![App Screenshot](./images/readme/screenshot_3.png)
 
 ## Créditos
 
