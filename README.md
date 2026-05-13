@@ -1,5 +1,3 @@
-# Easy Game por Eric
-
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Tech Stack](#stack)
