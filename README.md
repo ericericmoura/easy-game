@@ -1,7 +1,5 @@
 # Easy Game por Eric
 
-![gameplay](./assets/readme/level_1.gif)
-
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Tech Stack](#stack)
@@ -11,6 +9,8 @@
 - [Screenshots](#screenshots)
 - [Créditos](#créditos)
 - [Licença](#licença)
+
+![gameplay](./assets/readme/level_1.gif)
 
 ## Descrição
 
