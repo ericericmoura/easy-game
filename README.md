@@ -18,7 +18,7 @@ Easy Game é um jogo inspirado por <a href="https://en.wikipedia.org/wiki/Syobon
 
 ## Como jogar
 
-É só baixar a <a href="https://github.com/ericericmoura/easy-game/releases">última versão do jogo</a>, descompactar e rodar o executável.
+É só baixar a <a href="https://github.com/ericericmoura/easy-game/releases">última versão do jogo</a>, descompactar os arquivos e, por fim, rodar o executável.
 
 ## Funcionalidades
 
