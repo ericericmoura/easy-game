@@ -108,19 +108,22 @@
             "expandedObjectLayers": [
                 8
             ],
-            "scale": 2,
+            "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 240,
-                "y": 159.75
+                "x": 239,
+                "y": 222.66666666666666
             }
         },
         "maps/level_10/level_10.json": {
+            "expandedObjectLayers": [
+                8
+            ],
             "scale": 2.064270833333333,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 257.4759045264168,
-                "y": 151.62739062421153
+                "x": 259.1714184790837,
+                "y": 173.4268557299289
             }
         },
         "maps/level_11/level_11.json": {
@@ -146,11 +149,14 @@
             }
         },
         "maps/level_13/level_13.json": {
+            "expandedObjectLayers": [
+                8
+            ],
             "scale": 2.030625,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 239.82763927362262,
-                "y": 159.80301631271158
+                "x": 252.13911972914738,
+                "y": 172.85318559556785
             }
         },
         "maps/level_14/level_14.json": {
@@ -172,7 +178,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 240,
-                "y": 160.16666666666666
+                "y": 160
             }
         },
         "maps/level_2/level_2.json": {
@@ -182,8 +188,8 @@
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 239.75,
-                "y": 160
+                "x": 252,
+                "y": 142.5
             }
         },
         "maps/level_2/level_2.tmx": {
@@ -204,8 +210,8 @@
             "scale": 3,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 240.16666666666666,
-                "y": 160.33333333333334
+                "x": 251,
+                "y": 179.66666666666663
             }
         },
         "maps/level_4/level_4.json": {
@@ -278,8 +284,8 @@
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 298,
-                "y": 221.5
+                "x": 255.5,
+                "y": 160.5
             }
         },
         "maps/rules/ground_autotile_rules.tmx": {
@@ -342,7 +348,7 @@
     "last.objectTemplatePath": "C:/Users/Eric/Documents/01_Projects/02_Games/04_CustomEngine/Game/Game/maps/templates",
     "map.height": 30,
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
-    "map.lastUsedFormat": "tmx",
+    "map.lastUsedFormat": "json",
     "map.layerDataFormat": "1",
     "map.tileHeight": 32,
     "map.tileWidth": 32,

@@ -26,10 +26,21 @@
                  "y":272
                 }, 
                 {
-                 "id":25,
-                 "template":"..\/templates\/jumper_enemy.json",
-                 "x":224,
-                 "y":256
+                 "id":26,
+                 "properties":[
+                        {
+                         "name":"movement_offset_x",
+                         "type":"float",
+                         "value":-32
+                        }, 
+                        {
+                         "name":"repeat_x",
+                         "type":"int",
+                         "value":1
+                        }],
+                 "template":"..\/templates\/spike.json",
+                 "x":240,
+                 "y":272
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -131,7 +142,7 @@
          "y":0
         }],
  "nextlayerid":10,
- "nextobjectid":26,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.12.1",

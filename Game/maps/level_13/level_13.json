@@ -25,7 +25,7 @@
                         {
                          "name":"movement_delay",
                          "type":"float",
-                         "value":5
+                         "value":2.5
                         }, 
                         {
                          "name":"movement_offset_x",
