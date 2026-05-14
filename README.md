@@ -1,3 +1,6 @@
+<details>
+<summary>Sumário (clique para exibir)</summary>
+  
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Tech Stack](#stack)
@@ -6,6 +9,8 @@
   - [Exemplo da criação de uma fase](#exemplo-da-criação-de-uma-fase)
 - [Créditos](#créditos)
 - [Licença](#licença)
+
+</details>
 
 ![gameplay](./assets/readme/level_9_gameplay.gif)
 
