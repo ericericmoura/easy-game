@@ -2,6 +2,7 @@
 <summary>Sumário (clique para exibir)</summary>
   
 - [Descrição](#descrição)
+- [Como jogar](#como-jogar)
 - [Funcionalidades](#funcionalidades)
 - [Tech Stack](#stack)
 - [Ferramentas](#ferramentas)
